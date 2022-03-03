@@ -13,7 +13,7 @@ const Foot = () => {
        
             <a href="/" className='logo-click'>
             <div className='header-logo'>
-                <img src={`/${iconPath}volcano.svg`} width='60px' />
+                <img src={`/${iconPath}volcano.svg`} width='60px'/>
             <h1 className='header-title'> Volcanoes Eruptions Map</h1>
             </div>
             </a>
