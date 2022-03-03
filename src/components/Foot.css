@@ -1,0 +1,30 @@
+.header{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: space-between;
+    height: 8vh;
+    background-color:antiquewhite;
+    
+}
+
+.header-source{
+    font-size: 1.3em;
+    margin-top: 32px;
+    margin-right: 12px;
+}
+
+.header-title{
+    margin-bottom: 0;
+    margin-top: 17px;
+}
+
+.header-logo{
+    display: flex;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.logo-click{
+    text-decoration: none;
+    color: inherit;
+}
