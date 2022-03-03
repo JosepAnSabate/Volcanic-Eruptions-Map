@@ -1,4 +1,4 @@
-# Volcanics Erputions Map Tracker using NASA Open APIs, with React-Leaflet.
+# Volcanics Erutions Map Tracker using NASA Open APIs, with React-Leaflet.
 
 
 ### Source:
@@ -11,3 +11,12 @@ EONET: The Earth Observatory Natural Event Tracker: [https://eonet.gsfc.nasa.gov
 </p>
 
 Update: npm run deploy
+
+gh-pages 
+
+ "homepage":"http://JosepAnSabate.github.io/React-Leaflet-World-Oil-Production-Deployment"
+
+   "scripts": {
+       
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
